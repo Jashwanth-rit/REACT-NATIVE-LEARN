@@ -9,12 +9,15 @@ import React from 'react';
 
 import {
   FlatList,
+  Pressable,
   SafeAreaView,
   ScrollView,
   SectionList,
   StatusBar,
   StyleSheet,
   Text,
+  TouchableHighlight,
+  TouchableOpacity,
   useColorScheme,
   View,
 } from 'react-native';
@@ -67,3 +70,13 @@ export default App;
 // -> SectionList 
 // -> JAVASKRIPT USED AS SAME AS IN REACTJS 
 // -> CONSTUCTOR IS ALSO EXACTLY SAME 
+// -> TouchableHighlight FOR BUTTONS 
+// -> GRID USING FLEXWRAP 
+// -> FLEX AS SAME AS CSS 
+// -> HOOKS , USE-__ , LIFE CYCLE SAME AS REACTJS 
+// -> TouchableOpacity 
+
+// -> MODALS IN REACT-NATIVE:
+// IMPORT MODEL AND USE IT THATS ALL
+// -> Pressable COMPONENT - ONPRESS AND ONLONGPRESS  # JUST READ DOCUMENTATION 
+
