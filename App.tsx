@@ -86,4 +86,5 @@ export default App;
 // -> Navigation, types of navigation, stack navigation, drawer navigation, tab navigation. 
 // -> install navigation using react navigation, and then use it using chat gpt .
 // -> install all types of navigation , individually , then use it and add css for it
+// -> localstorage <=> async storage , npm pod-install, getitem , setitem , removeitem are performed will be stored untill u dlt it
 
