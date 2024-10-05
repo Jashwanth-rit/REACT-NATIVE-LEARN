@@ -82,3 +82,8 @@ export default App;
 
 // -> INSTEAD OF GIVING CLASS WE HERE GIVE STYLE AND SPECIFY OBJECT IN WHICH STYLE IS WRITTEN , THATS ALL CSS 
 // -> just master css , nothing more required
+// -> creating custum modal using without any import , using css
+// -> Navigation, types of navigation, stack navigation, drawer navigation, tab navigation. 
+// -> install navigation using react navigation, and then use it using chat gpt .
+// -> install all types of navigation , individually , then use it and add css for it
+
