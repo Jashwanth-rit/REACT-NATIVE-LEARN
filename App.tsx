@@ -87,4 +87,5 @@ export default App;
 // -> install navigation using react navigation, and then use it using chat gpt .
 // -> install all types of navigation , individually , then use it and add css for it
 // -> localstorage <=> async storage , npm pod-install, getitem , setitem , removeitem are performed will be stored untill u dlt it
+// -> Redux in react-native is same as redux in reactjs , instead of using container and sending props, we use function , inside which we call disptch , to get data here we use useselector and access , state.reducer, which gets data and use that.
 
